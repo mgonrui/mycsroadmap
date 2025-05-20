@@ -5,12 +5,12 @@
 #+TODO: TODO REJECT | DONE PROGRESS
 #+TAGS: book online in_person
 
-* LEARNING RESOURCES
-** TODO Ongoing
+** Learning resources
+*** TODO Ongoing
 DEADLINE: <2025-12-31 Wed>
-*** [[https://www.goodreads.com/book/show/23241059-python-crash-course][python crash course]] :book:
+**** [[https://www.goodreads.com/book/show/23241059-python-crash-course][python crash course]] :book:
 python intro
-*** 42 school :in_person:
+**** 42 school :in_person:
 c/c++,
 Unix internals (syscalls, threads, procs, build a shell etc)
 2d/3d graphics (build ray casting etc)
@@ -18,91 +18,91 @@ build http protocol
  docker
 make a fullstack web app
 etc.
-*** [[https://www.goodreads.com/book/show/187833.C_Programming][C programming a modern approach]] :book:
+**** [[https://www.goodreads.com/book/show/187833.C_Programming][C programming a modern approach]] :book:
 C intro
-*** [[https://pdos.csail.mit.edu/6.828/2020/xv6.html][MIT xv6 course]] :online:
+**** [[https://pdos.csail.mit.edu/6.828/2020/xv6.html][MIT xv6 course]] :online:
 os and kernel development
-** TODO In the future
-*** [[https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/][mit mathematics for computer science]] :online:
+*** TODO In the future
+**** [[https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/][MIT mathematics for computer science]] :online:
 intro to discrete maths
-*** [[https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs][Structure and interpretation of computer programs]] :book:
+**** [[https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs][Structure and interpretation of computer programs]] :book:
 intro to cs in scheme
-*** [[https://www.goodreads.com/book/show/1238798.Assembly_Language_Step_By_Step][Assembly language step by step]] :book:
+**** [[https://www.goodreads.com/book/show/1238798.Assembly_Language_Step_By_Step][Assembly language step by step]] :book:
 intro to assembly
-*** [[https://www.nand2tetris.org/][Building a Modern Computer From First Principles]] :online:
+**** [[https://www.nand2tetris.org/][Building a Modern Computer From First Principles]] :online:
 build a simple computer from 0
-*** [[https://www.goodreads.com/book/show/32681092-writing-an-interpreter-in-go][writing an interpreter in go]] :book:
-how interpreters work [0/2]
-*** [[https://www.goodreads.com/book/show/41022931-writing-a-compiler-in-go][writing a compiler in go]] :book:
+**** [[https://www.goodreads.com/book/show/32681092-writing-an-interpreter-in-go][writing an interpreter in go]] :book:
+how interpreters work
+**** [[https://www.goodreads.com/book/show/41022931-writing-a-compiler-in-go][writing a compiler in go]] :book:
 how compilers work
-*** [[https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ][CCNA complete course]] :online:
+**** [[https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ][CCNA complete course]] :online:
 how networks work
 
-* KEY CONCEPTS TO LEARN
-** Computer Science Fundamentals
-*** TODO Algorithms & Complexity
-**** TODO Time Complexity
-**** TODO Sorting Algorithms
-**** TODO Popular Algorithms (search, graph algorithms)
-*** TODO Data Structures
-**** TODO Understand memory representation
-**** TODO Study basic structures (arrays, linked lists)
-**** TODO Binary trees (build, navigate, insert)
-*** TODO Programming Concepts
-**** TODO Programming paradigms (OOP, functional, etc.)
-**** TODO Master recursion
-*** TODO Systems Programming
-**** TODO Implement malloc
-**** TODO Study data races
+** Key concepts to learn
+*** Computer Science Fundamentals
+**** TODO Algorithms & Complexity
+***** TODO Time Complexity
+***** TODO Sorting Algorithms
+***** TODO Popular Algorithms (search, graph algorithms)
+**** TODO Data Structures
+***** TODO Understand memory representation
+***** TODO Study basic structures (arrays, linked lists)
+***** TODO Binary trees (build, navigate, insert)
+**** TODO Programming Concepts
+***** TODO Programming paradigms (OOP, functional, etc.)
+***** TODO Master recursion
+**** TODO Systems Programming
+***** TODO Implement malloc
+***** TODO Study data races
 
-** Mathematics for Computer Science
-*** TODO Algebra & Boolean Logic
+*** Mathematics for Computer Science
+**** TODO Algebra & Boolean Logic
 - [ ] Study groups theory
 - [ ] Boolean algebra fundamentals
-**** TODO Master boolean logic
-*** TODO Calculus
+***** TODO Master boolean logic
+**** TODO Calculus
 - [ ] Differentiation
 - [ ] Integration
-*** TODO Probability & Statistics
+**** TODO Probability & Statistics
 - [ ] Random variables
 - [ ] Probabilistic fundamentals
-*** TODO Advanced Mathematics
+**** TODO Advanced Mathematics
 - [ ] Galois theory
 
-** Operating Systems
-*** TODO OS Fundamentals
-**** TODO What an OS is and how it works
-**** TODO Process management
-*** TODO File Systems
-**** TODO Structure and operations
+*** Operating Systems
+**** TODO OS Fundamentals
+***** TODO What an OS is and how it works
+***** TODO Process management
+**** TODO File Systems
+***** TODO Structure and operations
 
-** Databases
-*** TODO Database Fundamentals
-**** TODO What a database is
-**** TODO How databases work
-*** TODO Concurrency
-*** TODO Normalization
+*** Databases
+**** TODO Database Fundamentals
+***** TODO What a database is
+***** TODO How databases work
+**** TODO Concurrency
+**** TODO Normalization
 
-** Networking
-*** TODO Network Basics
+*** Networking
+**** TODO Network Basics
 - [ ] Types of networks (LAN, WAN)
 - [ ] Network topology (mesh, star)
-*** TODO Network Management
+**** TODO Network Management
 - [ ] Medium access control
 - [ ] QoS (Quality of Service)
 
-** Programming Languages & Compilers
-*** TODO Language Theory
+*** Programming Languages & Compilers
+**** TODO Language Theory
 - [ ] Formal grammars and automata
-*** TODO Parsers & Lexers
+**** TODO Parsers & Lexers
 - [ ] Build a basic lexer
 
-** Hardware & Computer Architecture
-*** TODO Digital Logic Design
+*** Hardware & Computer Architecture
+**** TODO Digital Logic Design
 - [ ] Design basic logic cells (AND, OR, NOT)
 - [ ] Functional blocks (registers, counters)
-*** TODO Assembly & Architectures
+**** TODO Assembly & Architectures
 - [ ] Learn RISC assembly
 - [ ] ARM architectures and applications
-*** TODO Hardware Description Languages
+**** TODO Hardware Description Languages
 - [ ] VHDL protocol implementation
