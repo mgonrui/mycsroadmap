@@ -23,16 +23,31 @@ DEADLINE: <2025-12-31 Wed>
 - [ ] os and kernel development
 ** TODO IN THE FUTURE
 *** [[https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/][mit mathematics for computer science]] :online:
-- [ ] intro to discrete maths
+- [ ] intro to discrete maths [0/4]
+  - [ ] Fundaments of Algebra. Groups theory & Bool algebra
+  - [ ] Principles of calculus. Integration and diferentiation
+  - [ ] Fundaments of random variable and probabilistics
+  - [ ] Galois theory
 *** [[https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs][Structure and interpretation of computer programs]]                  :book:
 - [ ] intro to cs in scheme
 *** [[https://www.goodreads.com/book/show/1238798.Assembly_Language_Step_By_Step][Assembly language step by step]]                                     :book:
 - [ ] intro to assembly
+- [ ] assembly for *RISC* computers
+- [ ] family of ARM architectures and the appliance of them.
 *** [[https://www.nand2tetris.org/][Building a Modern Computer From First Principles]]                 :online:
+- [ ] design of basic logic cells
+- [ ] design of functional block cells /(registry, counters...)/
 - [ ] build a simple computer from 0
+- [ ] join a implementation of a protocol as an interface for a computer in VHDL.
 *** [[https://www.goodreads.com/book/show/32681092-writing-an-interpreter-in-go][writing an interpreter in go]]                                       :book:
-- [ ] how interpreters work
+- [ ] how interpreters work [0/2]
+  - [ ] parsers and lexers fundaments.
+  - [ ] language theory.
 *** [[https://www.goodreads.com/book/show/41022931-writing-a-compiler-in-go][writing a compiler in go]]                                           :book:
 - [ ] how compilers work
 *** [[https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ][CCNA complete course]] :online:
 - [ ] how networks work
+  - [ ] types of networks
+  - [ ] network topology
+  - [ ] medium acces
+  - [ ] resources and *QoS*
