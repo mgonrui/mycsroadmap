@@ -18,8 +18,6 @@ build http protocol
 docker
 make a fullstack web app
 etc.
-****
-****
 **** [[https://www.goodreads.com/book/show/187833.C_Programming][C programming a modern approach]] :book:
 C intro
 **** [[https://pdos.csail.mit.edu/6.828/2020/xv6.html][MIT xv6 course]] :online:
