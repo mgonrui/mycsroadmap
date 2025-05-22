@@ -10,21 +10,26 @@
 DEADLINE: <2025-12-31 Wed>
 **** [[https://www.goodreads.com/book/show/23241059-python-crash-course][python crash course]] :book:
 python intro
-**** 42 school :in_person:
+**** [[https://www.42network.org/][42 school]] :in_person:
 c/c++,
 Unix internals (syscalls, threads, procs, build a shell etc)
 2d/3d graphics (build ray casting etc)
 build http protocol
- docker
+docker
 make a fullstack web app
 etc.
+****
+****
 **** [[https://www.goodreads.com/book/show/187833.C_Programming][C programming a modern approach]] :book:
 C intro
 **** [[https://pdos.csail.mit.edu/6.828/2020/xv6.html][MIT xv6 course]] :online:
 os and kernel development
+
 *** TODO In the future
 **** [[https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/][MIT mathematics for computer science]] :online:
 intro to discrete maths
+**** [[https://www.goodreads.com/book/show/742586.Accelerated_C_][Accelerated C++]] :book:
+intro to c++
 **** [[https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs][Structure and interpretation of computer programs]] :book:
 intro to cs in scheme
 **** [[https://www.goodreads.com/book/show/1238798.Assembly_Language_Step_By_Step][Assembly language step by step]] :book:
